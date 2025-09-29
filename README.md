@@ -2,10 +2,10 @@
 <h3 align="center">Web Developer | CSE Student | Problem Solver</h3>
 
 <p align="center">
- <a href="https://sowraj-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+ 
+  <a href="https://sowraj-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4e73df?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-</a>
-
+  </a>
   <a href="mailto:sowrajsethu2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sowrajs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/sowraj_28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
